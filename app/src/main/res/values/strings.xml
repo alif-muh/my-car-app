@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">GargeIn</string>
+
+    <string name="cars_name">Nama Mobil</string>
+    <string name="specification">Spefikasi</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="profile">About</string>
+
+    <string-array name="data_name">
+        <item>Aventador</item>
+        <item>Corvette</item>
+        <item>Evo X</item>
+        <item>Ferrari 448</item>
+        <item>Impreza</item>
+        <item>Honda NSX</item>
+        <item>RX-7</item>
+        <item>Skyline R-35</item>
+        <item>Supra</item>
+        <item>Type R</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lamborghini Aventador adalah salah satu supercar yang diproduksi oleh perusahaan otomotif Italia, Lamborghini. Ini adalah mobil yang sangat diakui untuk performanya yang luar biasa, desain yang futuristik, dan teknologi canggih. Lamborghini Aventador ditenagai oleh mesin V12 6,5 liter yang menghasilkan daya luar biasa. Mesin ini mampu menghasilkan lebih dari 700 tenaga kuda, memberikan akselerasi yang sangat cepat. Dalam beberapa detik, Aventador dapat mencapai kecepatan 100 km/jam atau lebih</item>
+        <item>Chevrolet Corvette, atau sering disebut Corvette, adalah salah satu ikon otomotif Amerika yang sangat dihormati. Corvette telah menjadi bagian penting dari sejarah mobil olahraga Amerika dan telah melewati beberapa generasi dengan berbagai perubahan dan peningkatan. Corvette dikenal karena performanya yang luar biasa. Model-model terbaru sering dilengkapi dengan mesin V8 yang kuat, yang menghasilkan tenaga luar biasa dan memberikan akselerasi yang cepat. Corvette ZR1, salah satu varian, memiliki mesin supercharged V8 yang menghasilkan lebih dari 700 tenaga kuda.</item>
+        <item>Mitsubishi Lancer Evolution X, yang sering disingkat menjadi Evo X, adalah salah satu mobil sport kompak yang sangat dihormati dan dikenal karena kinerja dan kemampuan pengemudiannya yang luar biasa. Berikut adalah deskripsi singkat tentang Mitsubishi Lancer Evolution X. Evo X didukung oleh mesin turbocharged 2.0 liter dengan transmisi manual yang menghasilkan tenaga yang luar biasa. Ini mampu menghasilkan daya hingga 300 hingga 440 tenaga kuda tergantung pada varian dan edisi khususnya. Kinerjanya sangat mengesankan dengan akselerasi yang cepat dan kemampuan menangani yang luar biasa.</item>
+        <item>Untuk mendapatkan deskripsi dan informasi terbaru tentang Ferrari 448, saya sarankan Anda mengunjungi situs web resmi Ferrari atau sumber berita otomotif terpercaya. Di situs web resmi Ferrari, Anda akan menemukan rincian lengkap tentang spesifikasi, desain, performa, dan fitur dari model tersebut, serta sejarah dan berita terkait. Dengan informasi yang lebih baru, Anda dapat mendapatkan gambaran yang lebih akurat tentang Ferrari 448</item>
+        <item>Subaru Impreza adalah salah satu model mobil kompak yang diproduksi oleh produsen mobil Jepang, Subaru. Impreza telah ada sejak tahun 1992 dan telah menjadi salah satu mobil yang paling dikenal dalam segmennya. Sebagian besar model Subaru Impreza dilengkapi dengan sistem penggerak empat roda (all-wheel drive), yang meningkatkan traksi dan kinerja di berbagai kondisi cuaca dan medan. Ini adalah fitur yang sangat dihargai bagi pengemudi yang tinggal di daerah dengan salju atau cuaca buruk.</item>
+        <item>Honda NSX, yang juga dikenal sebagai Acura NSX di pasar Amerika Utara, adalah mobil sport yang diproduksi oleh Honda sejak tahun 1990. NSX adalah salah satu mobil sport legendaris yang telah mendapatkan pengakuan global atas performanya yang luar biasa dan pendekatannya terhadap teknologi canggih. NSX dikenal karena performanya yang sangat baik. Generasi terbaru dari NSX menggunakan kombinasi sistem hibrida dengan mesin V6 twin-turbocharged dan tiga motor listrik, memberikan tenaga yang sangat besar dan akselerasi yang mengesankan.</item>
+        <item>Mazda RX-7 adalah salah satu mobil sport legendaris yang diproduksi oleh Mazda dari tahun 1978 hingga 2002. RX-7 terkenal karena penggunaan mesin rotary (atau Wankel) yang jarang ditemukan dalam kendaraan penumpang, serta performanya yang luar biasa dan penanganan yang tajam. RX-7 terkenal karena mesin rotarynya. Mesin rotary adalah jenis mesin pembakaran internal yang menggunakan rotor segitiga (dalam hal ini, mesin 2-rotor) untuk menghasilkan tenaga. Ini berbeda dari mesin konvensional dengan piston dan memberikan karakteristik unik dalam hal suara, revving tinggi, dan responsif.</item>
+        <item>Nissan GT-R R35, yang sering dikenal sebagai Nissan GT-R saja atau Godzilla, adalah mobil sport yang diproduksi oleh Nissan sejak tahun 2007. GT-R R35 adalah penerus dari legendaris Nissan Skyline GT-R dan telah menjadi salah satu mobil sport yang sangat dihormati di seluruh dunia. GT-R R35 dilengkapi dengan sistem penggerak empat roda (all-wheel drive) yang canggih, yang memberikan traksi yang sangat baik di berbagai kondisi jalan. Sistem ini juga membantu meningkatkan penanganan mobil, terutama pada lintasan berliku.</item>
+        <item>Toyota Supra adalah mobil sport legendaris yang diproduksi oleh Toyota sejak tahun 1978. Mobil ini telah menjadi salah satu simbol otomotif yang sangat dihormati dan dikenal karena performa tinggi, desain yang ikonik, dan warisannya di dunia motorsport. Supra terkenal karena performanya yang luar biasa. Mobil ini sering dilengkapi dengan mesin berperforma tinggi, dengan yang paling terkenal adalah mesin 6-silinder segaris yang turbocharged. Mesin ini menghasilkan tenaga yang signifikan dan memberikan akselerasi yang sangat cepat.</item>
+        <item>Model "Type R" merujuk pada versi performa tinggi dari beberapa model mobil yang diproduksi oleh Honda. Honda Type R adalah salah satu submerek yang paling dihormati dalam dunia otomotif dan dikenal karena performa yang luar biasa, penanganan yang tajam, dan desain yang agresif. Berikut adalah deskripsi singkat tentang Honda Type R</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/mobil1</item>
+        <item>@drawable/mobil2</item>
+        <item>@drawable/mobil3</item>
+        <item>@drawable/mobil4</item>
+        <item>@drawable/mobil5</item>
+        <item>@drawable/mobil6</item>
+        <item>@drawable/mobil7</item>
+        <item>@drawable/mobil8</item>
+        <item>@drawable/mobil9</item>
+        <item>@drawable/mobil10</item>
+    </integer-array>
+
+    <string-array name="data_specification">
+        <item>Merk: Lamboghini \nMesin: V12 turbo-charge \nTenaga: 700 Horse Power</item>
+        <item>Merk: Chevrolet \nMesin: V8 turbo-charge \nTenaga: 600 Horse Power</item>
+        <item>Merk: Mitsubishi \nMesin: 4 Cylinder turbo-charge \nTenaga: 450 Horse Power</item>
+        <item>Merk: Ferrary \nMesin: V8 turbo-charge \nTenaga: 710 Horse Power</item>
+        <item>Merk: Tsubaru \nMesin: 4 Cylinder turbo-charge \nTenaga: 400 Horse Power</item>
+        <item>Merk: Honda \nMesin: 4 Twin-turbo \nTenaga: 550 Horse Power</item>
+        <item>Merk: Mazda \nMesin: Rotary turbo-charge \nTenaga: 450 Horse Power</item>
+        <item>Merk: Nissan \nMesin: 4 Cylinder turbo-charge \nTenaga: 500 Horse Power</item>
+        <item>Merk: Toyota \nMesin: 4 Cylinder turbo-charge \nTenaga: 600 Horse Power</item>
+        <item>Merk: Honda \nMesin: 4 Cylinder turbo-charge \nTenaga: 550 Horse Power</item>
+    </string-array>
+
+</resources>
